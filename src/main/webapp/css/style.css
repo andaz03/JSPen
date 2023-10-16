@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navcolor
+{
+	background: mediumpurple;
+}
+.top-banner {
+    background-image: url('./image/banner.png');
+    background-color: #4fb3d4;
+    background-size: 300px;
+}
+
+.banner-text {
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+}
